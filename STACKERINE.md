@@ -1,4 +1,8 @@
 Julie
 
-voisine Armony
 joe
+
+voisine droite  Armony
+
+voisine gauche Audrey
+
