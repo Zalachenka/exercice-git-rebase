@@ -1,6 +1,5 @@
 Julie
-
-poulet
+chicken
 pouet 
 
 joe
